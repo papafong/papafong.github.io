@@ -18,6 +18,12 @@ body {
   text-align: center;
 }
 
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
 h1, h2 {
     padding-top: 5rem;
 }
