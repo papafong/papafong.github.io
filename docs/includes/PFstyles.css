@@ -51,6 +51,7 @@ h1, h2 {
   top: 0;
   left: 0;
   min-width: 100%;
+  object-fit:cover;
 }
 
 /* RESPONSIVE CSS
